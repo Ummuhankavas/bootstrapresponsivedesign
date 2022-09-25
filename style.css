@@ -34,3 +34,17 @@
     width: 7rem;
     margin-bottom: 1rem;
 }
+
+.carousel-indicators button {
+    background-color: red !important;
+    height: 0.4rem !important;
+    width: 3rem !important;
+    margin-right: 0.7rem !important;
+}
+
+/* .carousel-caption {
+    bottom: 20vh;
+} */
+
+
+/* ABOUT US */
