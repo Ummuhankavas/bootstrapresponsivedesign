@@ -67,3 +67,18 @@ section#instructors .card:hover {
     transform: scale(1.05);
     
 }
+
+/* COURSES */
+section#courses .nav-link {
+    color: white;
+}
+
+section#courses .nav-link.active {
+    background-color: rgb(253, 46, 23);
+}
+
+/* CONTACT */
+section#contact i{
+    color: rgb(253, 46, 23);
+    font-size: 2rem;
+}
